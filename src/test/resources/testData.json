@@ -1,0 +1,17 @@
+{
+  "checkoutDetails": {
+    "FullName": "Rebecca Winter",
+    "AddressLine1": "Mandorley 112",
+    "AddressLine2": "Entrance 1",
+    "City": "Truro",
+    "State": "Cornwall",
+    "Zipcode": "89750",
+    "Country": "United Kingdom"
+  },
+  "paymentDetails": {
+    "FullName": "Rebecca Winter",
+    "CardNumber": "4111 1111 1111 1111",
+    "ExpirationDate": "03/25",
+    "SecurityCode": "123"
+  }
+}
